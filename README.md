@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hamzaaahmed512/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/hamzaaahmed512/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hamzaaahmed512/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/hamzaaahmed512/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzaaahmed512/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzaaahmed512/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hamzaaahmed512/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -61,5 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
