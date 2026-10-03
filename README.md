@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hamzaaahmed512/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hamzaaahmed512/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/hamzaaahmed512/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/hamzaaahmed512/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/hamzaaahmed512/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hamzaaahmed512/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
