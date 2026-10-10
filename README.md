@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hamzaaahmed512/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/hamzaaahmed512/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/hamzaaahmed512/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hamzaaahmed512/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
