@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hamzaaahmed512/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hamzaaahmed512/DSA/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hamzaaahmed512/DSA/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzaaahmed512/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -81,4 +83,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hamzaaahmed512/DSA/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzaaahmed512/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
